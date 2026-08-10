@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 220" role="img" aria-label="Seattle Fence Company">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(178,12)">
+      <rect x="12" y="38" width="12" height="70" rx="2" fill="#1f3d2f"/>
+      <rect x="36" y="28" width="12" height="80" rx="2" fill="#1f3d2f"/>
+      <rect x="60" y="20" width="12" height="88" rx="2" fill="#1f3d2f"/>
+      <rect x="84" y="28" width="12" height="80" rx="2" fill="#1f3d2f"/>
+      <rect x="108" y="38" width="12" height="70" rx="2" fill="#1f3d2f"/>
+      <path d="M18 20 L18 12 L24 4 L30 12 L30 20 Z" fill="#1f3d2f"/>
+      <path d="M42 12 L42 4 L48 -4 L54 4 L54 12 Z" fill="#1f3d2f"/>
+      <path d="M66 4 L66 -4 L72 -12 L78 -4 L78 4 Z" fill="#1f3d2f"/>
+      <path d="M90 12 L90 4 L96 -4 L102 4 L102 12 Z" fill="#1f3d2f"/>
+      <path d="M114 20 L114 12 L120 4 L126 12 L126 20 Z" fill="#1f3d2f"/>
+      <rect x="10" y="52" width="112" height="8" rx="1" fill="#1f3d2f"/>
+      <rect x="10" y="78" width="112" height="8" rx="1" fill="#1f3d2f"/>
+    </g>
+    <line x1="170" y1="130" x2="350" y2="130" stroke="#b85c38" stroke-width="3" stroke-linecap="round"/>
+    <g font-family="Arial Black, Helvetica Neue, Arial, sans-serif" text-anchor="middle">
+      <text x="260" y="162" font-size="22" font-weight="800" fill="#1f3d2f" letter-spacing="0.5">SEATTLE</text>
+      <text x="260" y="198" font-size="15" font-weight="600" fill="#b85c38" letter-spacing="4">FENCE COMPANY</text>
+    </g>
+  </g>
+</svg>
